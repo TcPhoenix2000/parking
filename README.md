@@ -10,7 +10,9 @@ We're making an AI model that can recognize how many cars are on the parking at 
 
 ## The plan
 
-The plan is to use a Raspberry Pi 4 together with a Raspberry Pi High Quality Camera. 
+The plan is to use a Raspberry Pi 4 together with a Raspberry Pi High Quality Camera.
+
+![Setup](/img/setup.png)
 
 We will use this camera to take a picture every 30 seconds and count how many cars are in the picture.
 
