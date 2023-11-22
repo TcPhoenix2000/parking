@@ -21,6 +21,9 @@ Since the camera will not be moving we know how many parking spots are in frame.
 After counting the cars we subtract the amount of parking spots by how many cars we counted to get a result of how many spots are still open.
 
 ## Model
+### datasets
+We are going to use the [parkinglot dataset](https://www.kaggle.com/datasets/blanderbuss/parking-lot-dataset) and,
+We are going to use the [YoloV5 dataset](https://www.kaggle.com/datasets/braunge/aerial-view-car-detection-for-yolov5/data) to train our model.
 
 We are going to retrain the pretrained YOLO-model to focus on cars in a parking lot.
 
