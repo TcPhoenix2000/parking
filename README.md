@@ -6,6 +6,7 @@ We're making an AI model that can recognize how many cars are on the parking at 
 ## Table of Contents
 - [The plan](#the-plan)
 - [Model](model)
+  - [Datasets](datasets)  
 - [How to Use](#how-to-use)
 
 ## The plan
