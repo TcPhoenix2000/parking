@@ -28,4 +28,4 @@ YOLO (You Only Look Once) is an advanced Object Detection model that, hence the 
 
 ## How to Use
 
-TODO
+current best model weights under ./pklot
